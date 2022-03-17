@@ -1,4 +1,4 @@
-Salut ! moi c'est MLB drap
+Salut ! moi c'est MLB 
 
 Je vais faire des études en informatique  
 
