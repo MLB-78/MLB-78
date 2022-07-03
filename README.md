@@ -1,12 +1,12 @@
-Wewewé !
+Bonjour à tous ! 
 
 En ce moment : 
 
-- 👔 Je travail sur un big projet (Satellite)
-- 💪🏿 J'apprend en ce moment JavaScript 
+- 👔 Je travail sur un big projet
+- 💪🏿 Je me spécialise sur du JavaScript 
 - 👌🏿 Je maîtrise html, css, php
 - ⚽ Mes hobbies : le foot, la muscu, la MMA, les fast-foods , fifa ...
-- 🤲🏿 Je prévoit d'apprendre un framework de la librairie JS peut-être React.js
+- 🤲🏿 Je prévoit d'apprendre un framework de la librairie JS (peut-être React.js ou Node.js)
 
 
 C'est léger pour l'instant mais attendez seulement 😁
