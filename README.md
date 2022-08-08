@@ -3,7 +3,6 @@ MLB-78
 
 - 💪🏿 Je me spécialise sur JavaScript 
 - 👌🏿 Je maîtrise html, css, php
-- ⚽ Mes hobbies : le foot, la muscu, la MMA, les fast-foods , fifa ...
 - 🤲🏿 Je prévoit d'apprendre un framework de la librairie JS (peut-être React.js ou Node.js)
 
 
