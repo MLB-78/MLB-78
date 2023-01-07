@@ -1,12 +1,9 @@
 MLB-78
  
 
-- 💪🏿 Je me spécialise sur JavaScript 
-- 👌🏿 Je maîtrise html, css, php
-- 🤲🏿 Je prévoit d'apprendre un framework de la librairie JS (peut-être React.js ou Node.js)
+Mes compétences : HTML 5 , CSS 3, PHP, Javascript, C# , Bootstrap, Laragon, PhpMyAdmin, WampServeur
 
 
-C'est léger pour l'instant mais attendez seulement 😁
 
 
 Mes technos : 
