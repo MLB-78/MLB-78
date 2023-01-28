@@ -1,7 +1,7 @@
 MLB-78
  
 
-Mes compétences : HTML 5 , CSS 3, PHP, Javascript, C# , Bootstrap, Laragon, PhpMyAdmin, WampServeur
+Mes compétences : HTML 5 , CSS 3, PHP, Javascript, C# , Bootstrap, Laragon, PhpMyAdmin, GIT
 
 
 
