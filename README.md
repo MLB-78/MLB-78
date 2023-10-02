@@ -15,7 +15,7 @@ Mes technos :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="45" />
-<svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512">
+<font-awesome-icon :icon="['fab', 'symfony']" style="color: #ffffff;" />
 
    
           
