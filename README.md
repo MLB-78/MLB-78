@@ -10,9 +10,8 @@ Compétences : HTML 5 , CSS 3, PHP, Javascript, C# , Bootstrap, Laragon, PhpMyAd
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="45" />
-          
+<img src="icônes/iS.png" alt="Texte alternatif" width="45">
 
-![Texte alternatif](icônes/iS.png)
    
           
           
