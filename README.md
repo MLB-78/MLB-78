@@ -14,15 +14,18 @@ MLB-78
 </div>
 
 
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40px" />
+<div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40px" />
+</div>
 <h5>Base de donnée </h5>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="45" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="45" />
 <h5>Framework </h5>
-<img src="icônes/irS.png" alt="Symfony" width="45">
-<img src="icônes/bootstrap.png" alt="bootstrap" width="45">
+<div style="display: flex; align-items: center;">
+    <img src="icônes/irS.png" alt="Symfony" width="45">
+    <img src="icônes/bootstrap.png" alt="bootstrap" width="45">
+
+</div>
 <h5>CRM </h5>
 <img src="icônes/wp.png" alt="wp" width="45">
           
