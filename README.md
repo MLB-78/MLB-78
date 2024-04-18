@@ -26,7 +26,7 @@ MLB-78
 
 </div>
 <h5>CRM </h5>
-<img src="icônes/wp.png" alt="wp" width="45">
+<img src="icônes/wp.png" alt="wp" width="50">
           
           
           
