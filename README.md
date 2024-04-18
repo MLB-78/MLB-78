@@ -2,7 +2,6 @@ MLB-78
  
 <h1>Étudiant en BTS SIO</h1>
 <br>
-- Compétences Techniques -
 
 <h5>Langage de programmation </h5>
 <div style="display: flex; align-items: center;">
