@@ -17,6 +17,7 @@ MLB-78
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="45" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="45" />
     <img src="icônes/bootstrap.png" alt="bootstrap" width="45">
     <img src="icônes/wp.png" alt="wp" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" />
 </div>
 
 
