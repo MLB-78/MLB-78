@@ -18,6 +18,7 @@ MLB-78
     <img src="icônes/bootstrap.png" alt="bootstrap" width="45">
     <img src="icônes/wp.png" alt="wp" width="50">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="50px"/>
 </div>
 
 
@@ -29,4 +30,3 @@ MLB-78
           
           
 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="50px"/>
