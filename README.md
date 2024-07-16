@@ -1,4 +1,4 @@
-<h1>Étudiant à l'ETNA</h1>
+<h1>Étudiant</h1>
 <br>
 
 <h5>Compétences Techniques </h5>
