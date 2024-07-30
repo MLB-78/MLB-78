@@ -28,5 +28,4 @@
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45px" alt="MySQL" title="MySQL" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45px" alt="MongoDB" title="MongoDB" />
-    <img src="icônes/wp.png" width="50px" alt="WordPress" title="WordPress" />
 </p>
