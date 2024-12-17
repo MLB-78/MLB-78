@@ -20,12 +20,12 @@
 </p>
 
 ### 🛠️ DevOps
-<p align="left">
+<p align="right">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50px" alt="Docker" title="Docker" />
 </p>
 
 ### 🗄️ Bases de Données
-<p align="left">
+<p align="right">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45px" alt="MySQL" title="MySQL" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45px" alt="MongoDB" title="MongoDB" />
 </p>
