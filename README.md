@@ -12,7 +12,7 @@
     <img src="icônes/irS.png" width="45px" alt="Symfony" title="Symfony" />
 </p>
 
-### Outils de Développement
+### IDE
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" alt="VSCode" title="VSCode" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="40px" alt="Visual Studio" title="Visual Studio" />
@@ -23,6 +23,7 @@
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50px" alt="Docker" title="Docker" />
 </p>
+
 ### Bases de Données
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45px" alt="MySQL" title="MySQL" />
