@@ -4,7 +4,7 @@
 
 ### Front-End
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactjs/reactjs-original.svg" width="40px" alt="Vue.js" title="Vue.js" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="45px"/>
 </p>
 
 ### Back-End
@@ -17,9 +17,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" alt="VSCode" title="VSCode" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="40px" alt="Visual Studio" title="Visual Studio" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px" alt="Git" title="Git" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50px" alt="Docker" title="Docker" />
 </p>
 
+### Devops
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50px" alt="Docker" title="Docker" />
+</p>
 ### Bases de Données
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45px" alt="MySQL" title="MySQL" />
