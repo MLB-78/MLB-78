@@ -2,13 +2,9 @@
 
 ## 💻 Compétences Techniques
 
-### Front-End
+### Frameworks
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45px" alt="React" title="React" />
-</p>
-
-### Back-End
-<p align="left">
     <img src="icônes/irS.png" width="45px" alt="Symfony" title="Symfony" />
 </p>
 
