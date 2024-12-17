@@ -4,7 +4,7 @@
 
 ### Front-End
 <p align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="45px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45px" alt="React" title="React" />
 </p>
 
 ### Back-End
@@ -19,7 +19,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px" alt="Git" title="Git" />
 </p>
 
-### Devops
+### DevOps
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50px" alt="Docker" title="Docker" />
 </p>
