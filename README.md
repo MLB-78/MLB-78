@@ -4,7 +4,7 @@
 
 ### Front-End
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40px" alt="Vue.js" title="Vue.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactjs/reactjs-original.svg" width="40px" alt="Vue.js" title="Vue.js" />
 </p>
 
 ### Back-End
