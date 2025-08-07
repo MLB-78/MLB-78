@@ -1,4 +1,4 @@
-# 👨‍🎓 Étudiant en Bachelor Développeur FullStack à l'Ensitech
+# 👨‍🎓 Étudiant en M1
 
 ## 💻 Compétences Techniques
 
